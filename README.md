@@ -29,8 +29,6 @@ ________________________________________________________
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 </div>
 
@@ -39,12 +37,8 @@ ________________________________________________________
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -53,20 +47,14 @@ ________________________________________________________
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| netology.ru/Тестировщик: быстрый старт в IT                     | 12/2022 - 01/2023 |
+| stepik.org/Основы Java                                          | 01/2023 - 02/2023 |
+| netology.ru/Основы разработки на Java                           | 02/2023 - 02/2023 |
+| stepik.org/Тестирование на практике - базовый курс              | 02/2023 - 03/2023 |
+| stepik.org/Тестирование ПО: Postman для тестирования API        | 03/2023 - 04/2023 |
+| https://innopolis.university/Тестирование ПО                    | 12/2022 - xx/2023 |
 
 ---
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 
 ### ⚙️ GitHub статистика:
 
