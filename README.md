@@ -12,9 +12,7 @@ ________________________________________________________
 
 * ⚡ Хочу освоить новую профессию и найти работу.
 
-* 📫 Как связаться со мной: https://img.@ksenia\_kkn.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white 
- 
- [@ksenia\_kkn ks9kononova@yandex.ru](mailto: @ksenia_kkn ks9kononova@yandex.ru) 
+* 📫 Как связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ksenia_kkn) 
 
 ### Навыки
 
