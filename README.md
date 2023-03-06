@@ -12,7 +12,7 @@ ________________________________________________________
 
 * ⚡ Хочу освоить новую профессию и найти работу.
 
-* 📫 Как связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ksenia_kkn) 
+* 📫 Как связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-kononovaksenia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ksenia_kkn) 
 
 ### Навыки
 
