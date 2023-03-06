@@ -14,7 +14,26 @@ ________________________________________________________
 
 * 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kononovaksenia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ksenia_kkn) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ks9kononova1991@gmail.com)
 
-### Навыки
+---
+
+### 🤝 Социальные сети:
+ <div id="badges">
+    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a>
+  </div>
 
 <p align="left"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg " width="36" height="36" alt="C #" /></a>"https://www.oracle.com/java /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg " width="36" height="36" alt="Java" /></a>com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg " width="36" height="36" alt="Git" /></a>><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg " width="36" height="36" alt="PHP" /></a>org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg " width="36" height="36" alt="Реагировать" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg " width="36" height="36" alt="HTML5" /></a>w3.org/TR/CSS/#css " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg " width="36" height="36" alt="CSS3" /></a> <a href="https://fastapi.tiangolo.com /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg " width="36" height="36" alt="Быстрый API" /></a>microsoft.com/en-us /" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg " width="36" height="36" alt=".NET" /></a> </p>
 ### Социальные сети <p align="left"> <a href="https://www.github.com/Kononova9 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " ширина ="32" высота="32" /></a></p>
