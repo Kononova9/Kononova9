@@ -1,5 +1,5 @@
-<h1 align="center">Привет, меня зовут Ксения!</h1>
-<h3 align="center">
+<h1 align="left">Привет, меня зовут Ксения!</h1>
+<h3 align="left">
 
 
 ________________________________________________________
@@ -11,7 +11,7 @@ ________________________________________________________
 
 * ⚡ Хочу освоить новую профессию и найти работу.
 
-* 📫 Как связаться со мной: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white 
+* 📫 Как связаться со мной: https://img.@ksenia\_kkn.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white 
  
  [@ksenia\_kkn ks9kononova@yandex.ru](mailto: @ksenia_kkn ks9kononova@yandex.ru) 
 
