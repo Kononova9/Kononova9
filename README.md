@@ -48,7 +48,9 @@ ________________________________________________________
 | innopolis.university/Тестирование ПО                            | 12/2022 - xx/2023 |
 
 ---
-https://github.com/Kononova9/task-Java-C.git
+<img src="https://github.com/Kononova9/task-Java-C.git"/>  
+
+<br/>  
  
  
 ### ⚙️ GitHub статистика:
